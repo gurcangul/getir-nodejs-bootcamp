@@ -1,7 +1,7 @@
 # TODOs
 
-- [ ] user modeli oluşturulacak
-- [ ] post modeli oluşturulacak
+- [X] user modeli oluşturulacak
+- [X] post modeli oluşturulacak
 - [ ] authentication oluşturulacak
 - [ ] validations ? ( inside mongoose )
 - [ ] deploy için middleware'lar eklenecek
@@ -22,8 +22,8 @@
 
 <br/>
 
-- [ ] /api/v1/createPost ==> private
-- [ ] /api/v1/deletePost ==> private
-- [ ] /api/v1/updatePost ==> private
-- [ ] /api/v1/getPosts ==> public
-- [ ] /api/v1/getPosts/:id ==> public
+- [X] /api/v1/createPost ==> private
+- [X] /api/v1/deletePost ==> private
+- [X] /api/v1/updatePost ==> private
+- [X] /api/v1/getPosts ==> public
+- [X] /api/v1/getPosts/:id ==> public
